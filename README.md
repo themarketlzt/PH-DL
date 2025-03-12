@@ -1,14 +1,3 @@
-<p align="center">
-<img src=https://img.shields.io/github/stars/logicguy1/PH-DL?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/forks/logicguy1/PH-DL?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/issues/logicguy1/PH-DL?style=for-the-badge&logo=appveyor&color=informational />
-<img src=https://img.shields.io/github/issues-pr/logicguy1/PH-DL?style=for-the-badge&logo=appveyor&color=informational />
-</p>
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/logicguy1/PH-DL">
-    <img src="assets/logo.png" alt="Logo" width="150" height="150">
-  </a>
 
   <h3 align="center">PH-DL</h3>
 
@@ -100,34 +89,3 @@ Album urls: https://www.pornhub.com/album/70564671
 Picture urls: https://www.pornhub.com/photo/803965741  
 
 They get downloaded at the same place in the script
-
-## Roadmap
-
-See the [open issues](https://github.com/logicguy1/PH-DL/issues) for a list of proposed features (and known issues).
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-## Licence
-
-Copyright © 2021 Drillenissen#4268 - logicguy.mailandcontact@gmail.com
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Contact
-
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
-
-Project Link: [https://github.com/logicguy1/PH-DL](https://github.com/logicguy1/PH-DL)
